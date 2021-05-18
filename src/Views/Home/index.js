@@ -43,16 +43,10 @@ const Home = () => {
           color="textSecondary"
           gutterBottom
         >
-          Word of the Day
-        </Typography>
-        <Typography variant="h5" component="h2">
-          be{bull}nev{bull}o{bull}lent
-        </Typography>
-        <Typography className={classes.pos} color="textSecondary">
-          adjective
+          Movie slideshow
         </Typography>
         <Typography variant="body2" component="p">
-          well meaning and kindly.
+          Coming soon.
           <br />
           {'"a benevolent smile"'}
         </Typography>
