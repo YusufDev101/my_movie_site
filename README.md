@@ -1,7 +1,7 @@
 #My Movie Site
 
 <div class="row">
-<img src="Screenshots/Image1.png" width=400, height=400 > 
+<img src="Screenshots/Image1.png" width=500, height=400 > 
 <img src="Screenshots/Image2.png" width=200, height=400 > 
 </div>
 
